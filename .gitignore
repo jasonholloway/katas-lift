@@ -1,0 +1,5 @@
+*.class
+*.log
+
+.ensime_cache/
+target/
